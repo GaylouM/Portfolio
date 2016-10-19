@@ -15,6 +15,9 @@ The logo is a svg file created with Inkscape
 ## Section 1: Requirements
 
 Grunt
+
 GraphicsMagick
+
 node.js
+
 grunt-responsive-images == 0.1.9
